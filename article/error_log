@@ -1,0 +1,77 @@
+[18-Mar-2024 10:37:32 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 160
+[18-Mar-2024 10:37:32 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 161
+[18-Mar-2024 10:37:32 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 162
+[18-Mar-2024 10:37:32 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 163
+[18-Mar-2024 10:38:01 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 160
+[18-Mar-2024 10:38:01 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 161
+[18-Mar-2024 10:38:01 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 162
+[18-Mar-2024 10:38:01 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 163
+[18-Mar-2024 10:38:16 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 160
+[18-Mar-2024 10:38:16 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 161
+[18-Mar-2024 10:38:16 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 162
+[18-Mar-2024 10:38:16 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 163
+[18-Mar-2024 10:40:05 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 160
+[18-Mar-2024 10:40:05 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 161
+[18-Mar-2024 10:40:05 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 162
+[18-Mar-2024 10:40:05 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 163
+[18-Mar-2024 10:40:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/client/index.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/client/index.php on line 175
+[18-Mar-2024 10:40:10 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 160
+[18-Mar-2024 10:40:10 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 161
+[18-Mar-2024 10:40:10 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 162
+[18-Mar-2024 10:40:10 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 163
+[18-Mar-2024 10:40:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/client/index.php:175
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/client/index.php on line 175
+[18-Mar-2024 10:42:21 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 160
+[18-Mar-2024 10:42:21 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 161
+[18-Mar-2024 10:42:21 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 162
+[18-Mar-2024 10:42:21 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 163
+[18-Mar-2024 10:42:21 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 185
+[18-Mar-2024 10:42:21 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 186
+[18-Mar-2024 10:42:21 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 187
+[18-Mar-2024 10:42:21 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 188
+[18-Mar-2024 10:43:18 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 160
+[18-Mar-2024 10:43:18 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 161
+[18-Mar-2024 10:43:18 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 162
+[18-Mar-2024 10:43:18 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 163
+[18-Mar-2024 10:43:18 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 185
+[18-Mar-2024 10:43:18 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 186
+[18-Mar-2024 10:43:18 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 187
+[18-Mar-2024 10:43:18 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 188
+[18-Mar-2024 10:44:08 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 160
+[18-Mar-2024 10:44:08 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 161
+[18-Mar-2024 10:44:08 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 162
+[18-Mar-2024 10:44:08 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 163
+[18-Mar-2024 10:44:08 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 185
+[18-Mar-2024 10:44:08 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 186
+[18-Mar-2024 10:44:08 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 187
+[18-Mar-2024 10:44:08 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 188
+[18-Mar-2024 10:44:36 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 160
+[18-Mar-2024 10:44:36 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 161
+[18-Mar-2024 10:44:36 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 162
+[18-Mar-2024 10:44:36 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 163
+[18-Mar-2024 10:44:36 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 185
+[18-Mar-2024 10:44:36 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 186
+[18-Mar-2024 10:44:36 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 187
+[18-Mar-2024 10:44:36 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 188
+[18-Mar-2024 10:44:43 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 160
+[18-Mar-2024 10:44:43 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 161
+[18-Mar-2024 10:44:43 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 162
+[18-Mar-2024 10:44:43 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 163
+[18-Mar-2024 10:44:43 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 185
+[18-Mar-2024 10:44:43 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 186
+[18-Mar-2024 10:44:43 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 187
+[18-Mar-2024 10:44:43 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 188
+[18-Mar-2024 10:46:23 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 160
+[18-Mar-2024 10:46:23 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 161
+[18-Mar-2024 10:46:23 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 162
+[18-Mar-2024 10:46:23 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 163
+[18-Mar-2024 10:46:23 Asia/Jakarta] PHP Notice:  Undefined variable: linkfb in /home/mitramot/public_html/varshadigital.id/client/index.php on line 185
+[18-Mar-2024 10:46:23 Asia/Jakarta] PHP Notice:  Undefined variable: linkig in /home/mitramot/public_html/varshadigital.id/client/index.php on line 186
+[18-Mar-2024 10:46:23 Asia/Jakarta] PHP Notice:  Undefined variable: linktiktok in /home/mitramot/public_html/varshadigital.id/client/index.php on line 187
+[18-Mar-2024 10:46:23 Asia/Jakarta] PHP Notice:  Undefined variable: linklinkedin in /home/mitramot/public_html/varshadigital.id/client/index.php on line 188
+[02-Sep-2024 15:16:04 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mitramot/public_html/varshadigital.id/article/index.php:1) in /home/mitramot/public_html/varshadigital.id/article/index.php on line 5

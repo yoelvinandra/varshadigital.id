@@ -1,0 +1,8 @@
+[26-Mar-2024 15:42:01 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/article/myarticle/Berikut Tips-Tips buat Brand Anda Booming/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/article/myarticle/Berikut Tips-Tips buat Brand Anda Booming/index.php on line 26
+[26-Mar-2024 15:42:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function baseurl() in /home/mitramot/public_html/varshadigital.id/article/myarticle/Berikut Tips-Tips buat Brand Anda Booming/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/article/myarticle/Berikut Tips-Tips buat Brand Anda Booming/index.php on line 26

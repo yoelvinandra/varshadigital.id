@@ -1,0 +1,108 @@
+[14-Sep-2023 08:53:18 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 125
+[14-Sep-2023 08:54:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 108
+[14-Sep-2023 08:54:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 108
+[14-Sep-2023 08:55:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 108
+[14-Sep-2023 08:55:54 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 108
+[14-Sep-2023 08:56:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 108
+[14-Sep-2023 08:56:55 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 108
+[14-Sep-2023 08:57:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 108
+[14-Sep-2023 08:57:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 108
+[14-Sep-2023 08:57:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 108
+[14-Sep-2023 08:57:35 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:108
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 108
+[14-Sep-2023 09:00:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 113
+[14-Sep-2023 09:00:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 113
+[14-Sep-2023 09:03:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:03:10 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:03:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:03:30 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:03:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:03:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:03:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:03:52 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:03:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:03:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:04:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:04:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114
+[14-Sep-2023 09:04:53 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/mitramot/public_html/varshadigital.id/template/index.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/mitramot/public_html/varshadigital.id/template/index.php on line 114

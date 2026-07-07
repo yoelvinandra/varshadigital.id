@@ -1,0 +1,60 @@
+AS5202T
+
+Do more with 2.5GbE and AS5202T.
+The #1 cloud storage device for enthusiasts
+
+    Two 2.5 GbE ports with up to 5 Gbps under Link Aggregation
+    Up to 36TB. Store live streams on your NAS
+    Overwhelming 4K experience
+    2GB DDR4-2400 - 30% faster than DDR3
+    Intel Celeron dual core CPU - 30% faster than previous generation.
+    Three year warranty, best in class
+
+
+===DIBAWAH INI OPSIONAL===
+	
+CPU
+	CPU Model Intel Celeron
+	CPU Architecture x64 64-bit
+	CPU Frequency Dual-Core
+	AES-NI hardware encryption engine integrated 	
+	
+Memory
+	Memory 2GB SO-DIMM DDR4
+	Memory Module Pre-installed 2GB (1x 2GB)
+	Total Memory Slots 2
+	Memory Expandable up to 8GB (2x 4GB)
+    Support mixed capacity
+	Flash Memory 4GB eMMC
+	
+Storage
+	Drive Bays 	2
+	Compatible Drive Type
+		3.5" SATA HDD
+		2.5" SATA HDD
+		2.5" SATA SSD
+	Maximum Drive Bays with Expansion Unit 14
+	Supports Hot Swappable Drives
+	
+External Ports
+	Expansion 3x USB 3.2 Gen 1
+	Network 2x 2.5 Gigabit Ethernet (2.5G/1G/100M)
+	Multimedia Output 1x HDMI 2.0a
+	
+Others
+	System Fan 1x 70mm
+	Infrared Receiver 	
+	Power Supply Unit / Adapter 65W x1
+	Input Power Voltage 100V to 240V AC
+	Certification FCC, CE, VCCI, BSMI, C-TICK
+	Warranty 3 Years
+	
+Operation
+	Power Consumption 17 W (Operation); 10.5 W (Disk Hibernation); 1.3 W (Sleep Mode)
+	Noise Level 18.6dB (HDD idle)
+	Operation Temperature 0°C~40°C (32°F~104°F)
+	Humidity 5% to 95% RH
+	
+Size and Weight
+	Size 170(H) x 114(W) x 230(D) mm
+	Weight 1.6 kg / 3.53 lbs 

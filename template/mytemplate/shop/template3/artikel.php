@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en-US" class="scheme_original">
+
+<head>
+    <title>Blog With Sidebar &#8211; Juno Toys and Games</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link property="stylesheet" rel='stylesheet' href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700|Fredoka+One|Open+Sans:300,400,600,700,800|Raleway:100,200,300,400,500,600,700,800,900|Ubuntu:300,300i,400,400i,500,500i,700,700i&#038;ver=4.6.3' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='css/socials.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='css/fontello/css/fontello.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='css/style.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='css/core.animation.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='css/theme.shortcodes.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='css/theme.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='css/responsive.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='js/vendor/mediaelement/mediaelementplayer.min.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='js/vendor/grid.layout/grid.layout.min.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='css/custom/custom.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='css/custom/plugins.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='css/core.messages.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' href='js/vendor/swiper/swiper.min.css' type='text/css' media='all' />
+    <link rel="icon" href="images/cropped-big_favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" href="images/cropped-big_favicon-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon-precomposed" href="images/cropped-big_favicon-180x180.png" />
+    <meta name="msapplication-TileImage" content="images/cropped-big_favicon-270x270.png" />
+</head>
+
+<body class="page blogsidebar body_filled article_style_stretch scheme_original top_panel_above sidebar_show sidebar_right wpb-js-composer vc_responsive">
+<a id="toc_home" class="sc_anchor" title="Home" data-description="&lt;i&gt;Return to Home&lt;/i&gt; - &lt;br&gt;navigate to home page of the site" data-icon="icon-home" data-url="index.html" data-separator="yes"></a>
+<a id="toc_top" class="sc_anchor" title="To Top" data-description="&lt;i&gt;Back to top&lt;/i&gt; - &lt;br&gt;scroll to top of the page" data-icon="icon-double-up" data-url="" data-separator="yes"></a>
+<div class="body_wrap">
+    <div class="page_wrap">
+        <div class="top_panel_fixed_wrap"></div>
+        <header class="top_panel_wrap top_panel_style_6 scheme_original">
+            <div class="top_panel_wrap_inner top_panel_inner_style_6 top_panel_position_above">
+                <div class="top_panel_middle">
+                    <div class="columns_wrap content_wrap">
+                        <div class="contact_logo column-1_4">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <img src="images/logo.png" class="logo_main" alt="" width="121" height="74">
+                                    <img src="images/logo.png" class="logo_fixed" alt="" width="121" height="74">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="menu_main_wrap column-3_4">
+                            <div class="search_wrap search_style_fullscreen search_state_closed top_panel_icon">
+                                <div class="search_form_wrap">
+                                    <form role="search" method="get" class="search_form" action="#">
+                                        <button type="submit" class="search_submit icon-search" title="Open search"></button>
+                                        <input type="text" class="search_field" placeholder="Search" value="" name="s" />
+                                        <a class="search_close icon-cancel"></a>
+                                    </form>
+                                </div>
+                            </div>
+                            <nav class="menu_main_nav_area menu_hover_fade">
+                                <ul id="menu_main" class="menu_main_nav">
+                                    <li class="menu-item menu-item-has-children"><a href="#"><span>Home</span></a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item"><a href="index.html"><span>Home 1</span></a></li>
+                                            <li class="menu-item"><a href="home-2.html"><span>Home 2</span></a></li>
+                                            <li class="menu-item"><a href="home-3.html"><span>Home 3</span></a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item"><a href="about.html"><span>About Us</span></a></li>
+                                    <li class="menu-item menu-item-has-children"><a href="#"><span>Pages</span></a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item"><a href="services.html"><span>Our Services</span></a></li>
+                                            <li class="menu-item"><a href="team.html"><span>Our Team</span></a></li>
+                                            <li class="menu-item"><a href="single-team.html"><span>Expert&#8217;s Profile</span></a></li>
+                                            <li class="menu-item"><a href="contacts.html"><span>Contact Us</span></a></li>
+                                            <li class="menu-item"><a href="faq.html"><span>FAQ’s</span></a></li>
+                                            <li class="menu-item"><a href="404.html"><span>Page 404</span></a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item current-menu-ancestor current-menu-parent menu-item-has-children"><a><span>Blog</span></a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item current-menu-item page_item current_page_item"><a href="blog-sidebar.html"><span>Classic With Sidebar</span></a></li>
+                                            <li class="menu-item"><a href="blog.html"><span>Classic Without Sidebar</span></a></li>
+                                            <li class="menu-item"><a href="blog-masonry.html"><span>Masonry</span></a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item menu-item-has-children"><a><span>Elements</span></a>
+                                        <ul class="sub-menu">
+                                            <li class="menu-item"><a href="typography.html"><span>Typography</span></a></li>
+                                            <li class="menu-item"><a href="shortcodes.html"><span>Shortcodes</span></a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item"><a href="shop.html"><span>Shop</span></a></li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="header_mobile">
+            <div class="content_wrap">
+                <div class="menu_button icon-menu"></div>
+                <div class="logo">
+                    <a href="index.html">
+                        <img src="images/logo.png" class="logo_main" alt="" width="121" height="74">
+                    </a>
+                </div>
+                <div class="menu_main_cart top_panel_icon">
+                    <a href="#" class="top_panel_cart_button" data-items="0" data-summa="&#036;0.00">
+                        <span class="contact_icon icon-basket"></span>
+                        <span class="contact_label contact_cart_label">Your cart:</span>
+                        <span class="contact_cart_totals">
+                            <span class="cart_items">0 Items</span> -
+                            <span class="cart_summa">&#36;0.00</span>
+                        </span>
+                    </a>
+                    <ul class="widget_area sidebar_cart sidebar">
+                        <li>
+                            <div class="widget woocommerce widget_shopping_cart">
+                                <div class="hide_cart_widget_if_empty">
+                                    <div class="widget_shopping_cart_content">
+                                        <ul class="cart_list product_list_widget ">
+                                            <li class="empty">No products in the cart.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="side_wrap">
+                <div class="close">Close</div>
+                <div class="panel_top">
+                    <nav class="menu_main_nav_area">
+                        <ul id="menu_mobile" class="menu_main_nav">
+                            <li class="menu-item menu-item-has-children"><a href="#"><span>Home</span></a>
+                                <ul class="sub-menu">
+                                    <li class="menu-item"><a href="index.html"><span>Home 1</span></a></li>
+                                    <li class="menu-item"><a href="home-2.html"><span>Home 2</span></a></li>
+                                    <li class="menu-item"><a href="home-3.html"><span>Home 3</span></a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item"><a href="about.html"><span>About Us</span></a></li>
+                            <li class="menu-item menu-item-has-children"><a href="#"><span>Pages</span></a>
+                                <ul class="sub-menu">
+                                    <li class="menu-item"><a href="services.html"><span>Our Services</span></a></li>
+                                    <li class="menu-item"><a href="team.html"><span>Our Team</span></a></li>
+                                    <li class="menu-item"><a href="single-team.html"><span>Expert&#8217;s Profile</span></a></li>
+                                    <li class="menu-item"><a href="contacts.html"><span>Contact Us</span></a></li>
+                                    <li class="menu-item"><a href="faq.html"><span>FAQ’s</span></a></li>
+                                    <li class="menu-item"><a href="404.html"><span>Page 404</span></a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item current-menu-ancestor current-menu-parent menu-item-has-children"><a><span>Blog</span></a>
+                                <ul class="sub-menu">
+                                    <li class="menu-item current-menu-item page_item current_page_item"><a href="blog-sidebar.html"><span>Classic With Sidebar</span></a></li>
+                                    <li class="menu-item"><a href="blog.html"><span>Classic Without Sidebar</span></a></li>
+                                    <li class="menu-item"><a href="blog-masonry.html"><span>Masonry</span></a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item menu-item-has-children"><a><span>Elements</span></a>
+                                <ul class="sub-menu">
+                                    <li class="menu-item"><a href="typography.html"><span>Typography</span></a></li>
+                                    <li class="menu-item"><a href="shortcodes.html"><span>Shortcodes</span></a></li>
+                                </ul>
+                            </li>
+                            <li class="menu-item"><a href="shop.html"><span>Shop</span></a></li>
+                        </ul>
+                    </nav>
+                    <div class="search_wrap search_style_ search_state_fixed search_ajax">
+                        <div class="search_form_wrap">
+                            <form role="search" method="get" class="search_form" action="#">
+                                <button type="submit" class="search_submit icon-search" title="Start search"></button>
+                                <input type="text" class="search_field" placeholder="Search" value="" name="s" />
+                            </form>
+                        </div>
+                        <div class="search_results widget_area scheme_original">
+                            <a class="search_results_close icon-cancel"></a>
+                            <div class="search_results_content"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel_bottom">
+                </div>
+            </div>
+            <div class="mask"></div>
+        </div>
+        <div class="top_panel_title top_panel_style_6 title_present breadcrumbs_present scheme_original">
+            <div class="top_panel_title_inner top_panel_inner_style_6 title_present_inner breadcrumbs_present_inner">
+                <div class="content_wrap">
+                    <h1 class="page_title ">Blog With Sidebar</h1>
+                    <div class="breadcrumbs">
+                        <a class="breadcrumbs_item home" href="index.html">Home</a>
+                        <span class="breadcrumbs_delimiter"></span>
+                        <span class="breadcrumbs_item current">Blog With Sidebar</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="page_content_wrap page_paddings_yes">
+            <div class="content_wrap">
+                <div class="content">
+                    <article class="post_item post_item_single page hentry">
+                        <section class="post_content">
+                            <div class="vc_row wpb_row vc_row-fluid">
+                                <div class="wpb_column vc_column_container vc_col-sm-12">
+                                    <div class="vc_column-inner ">
+                                        <div class="wpb_wrapper">
+                                            <div id="sc_blogger_532" class="sc_blogger layout_excerpt sc_blogger_horizontal">
+                                                <div class="post_item post_item_excerpt post">
+                                                    <div class="post_featured">
+                                                        <div class="post_thumb" data-image="images/1000.png" data-title="Games for a Rainy Day Play">
+                                                            <a class="hover_icon hover_icon_link" href="single-post.html">
+                                                                <img alt="" src="images/1170x770.png">
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post_content clearfix">
+                                                        <h2 class="post_title">
+                                                            <a href="single-post.html">
+                                                                <span class="post_icon icon-book-open"></span>
+                                                                Games for a Rainy Day Play
+                                                            </a>
+                                                        </h2>
+                                                        <div class="post_info">
+                                                            <span class="post_info_item post_info_posted">Posted
+                                                                <a href="single-post.html" class="post_info_date">May 26, 2016</a>
+                                                            </span>
+                                                            <span class="post_info_item post_info_posted_by">by
+                                                                <a href="single-team.html" class="post_info_author">Alice Green</a>
+                                                            </span>
+                                                            <span class="post_info_item post_info_counters">
+                                                                <a class="post_counters_item post_counters_views icon-eye74" title="Views - 150" href="single-post.html">
+                                                                    <span class="post_counters_number">150</span>
+                                                                </a>
+                                                            </span>
+                                                        </div>
+                                                        <div class="post_descr">
+                                                            <p>
+                                                                Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa,
+                                                                quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+                                                                Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit...
+                                                            </p>
+                                                            <a href="single-post.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_small sc_button_color_4 small">Read More</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="post_item post_item_excerpt post">
+                                                    <div class="post_featured">
+                                                        <div class="post_thumb" data-image="images/image-9.jpg" data-title="Top Picks from Big Brand Toys">
+                                                            <a class="hover_icon hover_icon_link" href="single-post.html">
+                                                                <img alt="" src="images/1170x770.png">
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post_content clearfix">
+                                                        <h2 class="post_title">
+                                                            <a href="single-post.html">
+                                                                <span class="post_icon icon-book-open"></span>
+                                                                Top Picks from Big Brand Toys
+                                                            </a>
+                                                        </h2>
+                                                        <div class="post_info">
+                                                            <span class="post_info_item post_info_posted">Posted
+                                                                <a href="single-post.html" class="post_info_date">May 26, 2016</a>
+                                                            </span>
+                                                            <span class="post_info_item post_info_posted_by">by
+                                                                <a href="single-team.html" class="post_info_author">Alice Green</a>
+                                                            </span>
+                                                            <span class="post_info_item post_info_counters">
+                                                                <a class="post_counters_item post_counters_views icon-eye74" title="Views - 90" href="single-post.html">
+                                                                    <span class="post_counters_number">90</span>
+                                                                </a>
+                                                            </span>
+                                                        </div>
+                                                        <div class="post_descr">
+                                                            <p>
+                                                                Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa,
+                                                                quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+                                                                Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit...
+                                                            </p>
+                                                            <a href="single-post.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_small sc_button_color_4 small">Read More</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="post_item post_item_excerpt post hentry">
+                                                    <div class="post_featured">
+                                                        <div class="sc_video_player">
+                                                            <div class="sc_video_frame sc_video_play_button hover_icon hover_icon_play" data-width="1170" data-height="658" data-video="&lt;iframe class=&quot;video_frame&quot; src=&quot;https://player.vimeo.com/video/33952163?autoplay=1&quot; width=&quot;1170&quot; height=&quot;658&quot; frameborder=&quot;0&quot; webkitAllowFullScreen=&quot;webkitAllowFullScreen&quot; mozallowfullscreen=&quot;mozallowfullscreen&quot; allowFullScreen=&quot;allowFullScreen&quot;&gt;&lt;/iframe&gt;">
+                                                                <img alt="" src="images/1170x770.png">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post_content clearfix">
+                                                        <h2 class="post_title">
+                                                            <a href="single-post.html">
+                                                                <span class="post_icon icon-video"></span>
+                                                                Award-Winning Educational Toys
+                                                            </a>
+                                                        </h2>
+                                                        <div class="post_info">
+                                                            <span class="post_info_item post_info_posted">Posted
+                                                                <a href="single-post.html" class="post_info_date">May 23, 2016</a>
+                                                            </span>
+                                                            <span class="post_info_item post_info_posted_by">by
+                                                                <a href="single-team.html" class="post_info_author">Alice Green</a>
+                                                            </span>
+                                                            <span class="post_info_item post_info_counters">
+                                                                <a class="post_counters_item post_counters_views icon-eye74" title="Views - 74" href="single-post.html">
+                                                                    <span class="post_counters_number">74</span>
+                                                                </a>
+                                                            </span>
+                                                        </div>
+                                                        <div class="post_descr">
+                                                            <p>
+                                                                Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa,
+                                                                quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+                                                                Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit...
+                                                            </p>
+                                                            <a href="single-post.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_small sc_button_color_4 small">Read More</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="post_item post_item_excerpt post hentry">
+                                                    <div class="post_featured">
+                                                        <div id="sc_slider_153" class="sc_slider sc_slider_swiper swiper-slider-container sc_slider_controls sc_slider_pagination" data-old-width="1170" data-old-height="770" data-interval="8402">
+                                                            <div class="slides swiper-wrapper">
+                                                                <div class="swiper-slide sw_slide_1">
+                                                                    <a href="single-post.html"></a>
+                                                                </div>
+                                                                <div class="swiper-slide sw_slide_2">
+                                                                    <a href="single-post.html"></a>
+                                                                </div>
+                                                                <div class="swiper-slide sw_slide_3">
+                                                                    <a href="single-post.html"></a>
+                                                                </div>
+                                                                <div class="swiper-slide sw_slide_4">
+                                                                    <a href="single-post.html"></a>
+                                                                </div>
+                                                                <div class="swiper-slide sw_slide_5">
+                                                                    <a href="single-post.html"></a>
+                                                                </div>
+                                                            </div>
+                                                            <div class="sc_slider_controls_wrap">
+                                                                <a class="sc_slider_prev" href="#"></a>
+                                                                <a class="sc_slider_next" href="#"></a>
+                                                            </div>
+                                                            <div class="sc_slider_pagination_wrap"></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="post_content clearfix">
+                                                        <h2 class="post_title">
+                                                            <a href="single-post.html">
+                                                                <span class="post_icon icon-pictures"></span>
+                                                                Child’s Development and Educational Toys
+                                                            </a>
+                                                        </h2>
+                                                        <div class="post_info">
+                                                            <span class="post_info_item post_info_posted">Posted
+                                                                <a href="single-post.html" class="post_info_date">May 23, 2016</a>
+                                                            </span>
+                                                            <span class="post_info_item post_info_posted_by">by
+                                                                <a href="single-team.html" class="post_info_author">Alice Green</a>
+                                                            </span>
+                                                            <span class="post_info_item post_info_counters">
+                                                                <a class="post_counters_item post_counters_views icon-eye74" title="Views - 71" href="single-post.html">
+                                                                    <span class="post_counters_number">71</span>
+                                                                </a>
+                                                            </span>
+                                                        </div>
+                                                        <div class="post_descr">
+                                                            <p>
+                                                                Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa,
+                                                                quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+                                                                Nemo enim ipsam voluptatem, quia voluptas sit, aspernatur aut odit aut fugit...
+                                                            </p>
+                                                            <a href="single-post.html" class="sc_button sc_button_square sc_button_style_filled sc_button_size_small sc_button_color_4 small">Read More</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="post_item post_item_excerpt post_format_link last post hentry">
+                                                    <div class="post_content clearfix">
+                                                        <div class="post_descr">
+                                                            <p><a href="http://themeforest.net/user/themerex/portfolio" target="_blank">http://themeforest.net/user/themerex/portfolio</a></p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        <section class="related_wrap related_wrap_empty"></section>
+                    </article>
+                </div>
+                <div class="sidebar widget_area scheme_original" role="complementary">
+                    <div class="sidebar_inner widget_area_inner">
+                        <aside class="widget widget_search">
+                            <h5 class="widget_title">Search</h5>
+                            <form role="search" method="get" class="search_form" action="#">
+                                <input type="text" class="search_field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+                                <button type="submit" class="search_button icon-search"></button>
+                            </form>
+                        </aside>
+                        <aside class="widget widget_categories">
+                            <h5 class="widget_title">Categories</h5>
+                            <ul>
+                                <li class="cat-item">
+                                    <a href="#">Development</a>
+                                </li>
+                                <li class="cat-item">
+                                    <a href="#">Kids&#039; Health</a>
+                                </li>
+                                <li class="cat-item">
+                                    <a href="#">News</a>
+                                </li>
+                                <li class="cat-item">
+                                    <a href="#">Toddlers</a>
+                                </li>
+                                <li class="cat-item">
+                                    <a href="#">Toys &amp; Games</a>
+                                </li>
+                            </ul>
+                        </aside>
+                        <aside class="widget widget_recent_comments">
+                            <h5 class="widget_title">Recent Comments</h5>
+                            <ul id="recentcomments">
+                                <li class="recentcomments">
+                                    <span class="comment-author-link">Alice Green</span> on
+                                    <a href="single-product.html#comment-7">Build On Brick Blue Mug</a>
+                                </li>
+                                <li class="recentcomments">
+                                    <span class="comment-author-link">Alice Green</span> on
+                                    <a href="single-product.html#comment-6">Build On Brick Blue Mug</a>
+                                </li>
+                            </ul>
+                        </aside>
+                        <aside class="widget widget_calendar">
+                            <h5 class="widget_title">Calendar</h5>
+                            <table class="wp-calendar">
+                                <thead>
+                                <tr>
+                                    <th class="weekday" scope="col" title="Monday">Mon</th>
+                                    <th class="weekday" scope="col" title="Tuesday">Tue</th>
+                                    <th class="weekday" scope="col" title="Wednesday">Wed</th>
+                                    <th class="weekday" scope="col" title="Thursday">Thu</th>
+                                    <th class="weekday" scope="col" title="Friday">Fri</th>
+                                    <th class="weekday" scope="col" title="Saturday">Sat</th>
+                                    <th class="weekday" scope="col" title="Sunday">Sun</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <tr>
+                                    <td colspan="6" class="pad"><span class="day_wrap">&nbsp;</span></td>
+                                    <td class="day"><span class="day_wrap">1</span></td>
+                                </tr>
+                                <tr>
+                                    <td class="day"><span class="day_wrap">2</span></td>
+                                    <td class="day"><span class="day_wrap">3</span></td>
+                                    <td class="day"><span class="day_wrap">4</span></td>
+                                    <td class="day"><span class="day_wrap">5</span></td>
+                                    <td class="day"><span class="day_wrap">6</span></td>
+                                    <td class="day"><span class="day_wrap">7</span></td>
+                                    <td class="day"><span class="day_wrap">8</span></td>
+                                </tr>
+                                <tr>
+                                    <td class="today"><span class="day_wrap">9</span></td>
+                                    <td class="day"><span class="day_wrap">10</span></td>
+                                    <td class="day"><span class="day_wrap">11</span></td>
+                                    <td class="day"><span class="day_wrap">12</span></td>
+                                    <td class="day"><span class="day_wrap">13</span></td>
+                                    <td class="day"><span class="day_wrap">14</span></td>
+                                    <td class="day"><span class="day_wrap">15</span></td>
+                                </tr>
+                                <tr>
+                                    <td class="day"><span class="day_wrap">16</span></td>
+                                    <td class="day"><span class="day_wrap">17</span></td>
+                                    <td class="day"><span class="day_wrap">18</span></td>
+                                    <td class="day"><span class="day_wrap">19</span></td>
+                                    <td class="day"><span class="day_wrap">20</span></td>
+                                    <td class="day"><span class="day_wrap">21</span></td>
+                                    <td class="day"><span class="day_wrap">22</span></td>
+                                </tr>
+                                <tr>
+                                    <td class="day"><span class="day_wrap">23</span></td>
+                                    <td class="day"><span class="day_wrap">24</span></td>
+                                    <td class="day"><span class="day_wrap">25</span></td>
+                                    <td class="day"><span class="day_wrap">26</span></td>
+                                    <td class="day"><span class="day_wrap">27</span></td>
+                                    <td class="day"><span class="day_wrap">28</span></td>
+                                    <td class="day"><span class="day_wrap">29</span></td>
+                                </tr>
+                                <tr>
+                                    <td class="day"><span class="day_wrap">30</span></td>
+                                    <td class="day"><span class="day_wrap">31</span></td>
+                                    <td class="pad" colspan="5"><span class="day_wrap">&nbsp;</span></td>
+                                </tr>
+                                <tr>
+                                    <th class="month_prev"><a href="#" data-type="post" data-year="2016" data-month="05" data-letter="0" title="View posts for May 2016">May</a></th>
+                                    <th class="month_cur" colspan="5">January <span>2017</span></th>
+                                    <th class="month_next">&nbsp;</th>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </aside>
+                        <aside class="widget widget_recent_posts">
+                            <h5 class="widget_title">Recent Posts</h5>
+                            <article class="post_item with_thumb first">
+                                <div class="post_thumb">
+                                    <img alt="" src="images/1000.png">
+                                </div>
+                                <div class="post_content">
+                                    <h6 class="post_title">
+                                        <a href="single-post.html">Earn a $5 Rewards Certificate Today!</a>
+                                    </h6>
+                                    <div class="post_info">
+                                        <span class="post_info_item post_info_posted">
+                                            <a href="single-post.html" class="post_info_date">May 26, 2016</a>
+                                        </span>
+                                        <span class="post_info_item post_info_posted_by">by
+                                            <a href="single-team.html" class="post_info_author">Alice Green</a>
+                                        </span>
+                                        <span class="post_info_item post_info_counters">
+                                            <a href="single-post.html" class="post_counters_item">
+                                                <span class="post_counters_number"></span>
+                                            </a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+                            <article class="post_item with_thumb">
+                                <div class="post_thumb">
+                                    <img alt="" src="images/1000.png">
+                                </div>
+                                <div class="post_content">
+                                    <h6 class="post_title">
+                                        <a href="single-post.html">Need a Gift Card or E-gift Card?</a>
+                                    </h6>
+                                    <div class="post_info">
+                                        <span class="post_info_item post_info_posted">
+                                            <a href="single-post.html" class="post_info_date">May 26, 2016</a>
+                                        </span>
+                                        <span class="post_info_item post_info_posted_by">by
+                                            <a href="single-team.html" class="post_info_author">Alice Green</a>
+                                        </span>
+                                        <span class="post_info_item post_info_counters">
+                                            <a href="single-post.html" class="post_counters_item">
+                                                <span class="post_counters_number"></span>
+                                            </a>
+                                        </span>
+                                    </div>
+                                </div>
+                            </article>
+                        </aside>
+                        <aside class="widget widget_tag_cloud">
+                            <h5 class="widget_title">Tags</h5>
+                            <div class="tagcloud">
+                                <a href='#' title='1 topic'>camera</a>
+                                <a href='#' title='1 topic'>chilled</a>
+                                <a href='#' title='1 topic'>coctail</a>
+                                <a href='#' title='1 topic'>computer</a>
+                                <a href='#' title='1 topic'>cool</a>
+                                <a href='#' title='2 topics'>dark</a>
+                                <a href='#' title='15 topics'>family</a>
+                                <a href='#' title='4 topics'>food</a>
+                                <a href='#' title='1 topic'>games</a>
+                                <a href='#' title='5 topics'>hardware</a>
+                                <a href='#' title='15 topics'>health</a>
+                                <a href='#' title='12 topics'>hipster</a>
+                                <a href='#' title='20 topics'>holidays</a>
+                                <a href='#' title='1 topic'>kidscare</a>
+                                <a href='#' title='7 topics'>light</a>
+                                <a href='#' title='3 topics'>mac</a>
+                                <a href='#' title='3 topics'>place</a>
+                                <a href='#' title='2 topics'>retro</a>
+                                <a href='#' title='1 topic'>toys</a>
+                                <a href='#' title='6 topics'>video-2</a>
+                                <a href='#' title='1 topic'>watch</a>
+                            </div>
+                        </aside>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <footer class="contacts_wrap scheme_original">
+            <div class="contacts_wrap_inner">
+                <div class="content_wrap">
+                    <div class="logo">
+                        <a href="index.html">
+                            <img src="images/logo-footer.png" class="logo_footer" alt="" width="121" height="60">
+                        </a>
+                    </div>
+                    <div class="contact_info">Make play time a blast with our finest toys and games! </div>
+                    <div class="sc_socials sc_socials_type_images sc_socials_shape_square sc_socials_size_large">
+                        <div class="sc_socials_item">
+                            <a href="#" target="_blank" class="social_icons social_twitter">
+                                <span class="sc_socials_hover"></span>
+                            </a>
+                        </div>
+                        <div class="sc_socials_item">
+                            <a href="#" target="_blank" class="social_icons social_facebook">
+                                <span class="sc_socials_hover"></span>
+                            </a>
+                        </div>
+                        <div class="sc_socials_item">
+                            <a href="#" target="_blank" class="social_icons social_vimeo">
+                                <span class="sc_socials_hover"></span>
+                            </a>
+                        </div>
+                        <div class="sc_socials_item">
+                            <a href="#" target="_blank" class="social_icons social_pinterest">
+                                <span class="sc_socials_hover"></span>
+                            </a>
+                        </div>
+                        <div class="sc_socials_item">
+                            <a href="#" target="_blank" class="social_icons social_linkedin">
+                                <span class="sc_socials_hover"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <div class="copyright_wrap copyright_style_text  scheme_original">
+            <div class="copyright_wrap_inner">
+                <div class="content_wrap">
+                    <div class="copyright_text">
+                        <figure class="sc_image alignright sc_image_shape_square">
+                            <img src="images/Visa.png" alt="" />
+                        </figure>
+                        <p>Juno © 2019 All rights reserved.
+                            <a href="#">Terms of Use</a> and
+                            <a href="#">Privacy Policy</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="popup_registration" class="popup_wrap popup_registration bg_tint_light">
+    <a href="#" class="popup_close"></a>
+    <div class="form_wrap">
+        <form name="registration_form" method="post" class="popup_form registration_form">
+            <input type="hidden" name="redirect_to" value="index.html" />
+            <div class="form_left">
+                <div class="popup_form_field login_field iconed_field icon-user">
+                    <input type="text" id="registration_username" name="registration_username" value="" placeholder="User name (login)">
+                </div>
+                <div class="popup_form_field email_field iconed_field icon-mail">
+                    <input type="text" id="registration_email" name="registration_email" value="" placeholder="E-mail">
+                </div>
+                <div class="popup_form_field agree_field">
+                    <input type="checkbox" value="agree" id="registration_agree" name="registration_agree">
+                    <label for="registration_agree">I agree with</label>
+                    <a href="#">Terms &amp; Conditions</a>
+                </div>
+                <div class="popup_form_field submit_field">
+                    <input type="submit" class="submit_button" value="Sign Up">
+                </div>
+            </div>
+            <div class="form_right">
+                <div class="popup_form_field password_field iconed_field icon-lock">
+                    <input type="password" id="registration_pwd" name="registration_pwd" value="" placeholder="Password">
+                </div>
+                <div class="popup_form_field password_field iconed_field icon-lock">
+                    <input type="password" id="registration_pwd2" name="registration_pwd2" value="" placeholder="Confirm Password">
+                </div>
+                <div class="popup_form_field description_field">Minimum 6 characters</div>
+            </div>
+        </form>
+        <div class="result message_block"></div>
+    </div>
+</div>
+<div id="popup_login" class="popup_wrap popup_login bg_tint_light">
+    <a href="#" class="popup_close"></a>
+    <div class="form_wrap">
+        <div class="form_left">
+            <form action="#" method="post" name="login_form" class="popup_form login_form">
+                <input type="hidden" name="redirect_to" value="index.html">
+                <div class="popup_form_field login_field iconed_field icon-user">
+                    <input type="text" id="log" name="log" value="" placeholder="Login or Email">
+                </div>
+                <div class="popup_form_field password_field iconed_field icon-lock">
+                    <input type="password" id="password" name="pwd" value="" placeholder="Password">
+                </div>
+                <div class="popup_form_field remember_field">
+                    <a href="#" class="forgot_password">Forgot password?</a>
+                    <input type="checkbox" value="forever" id="rememberme" name="rememberme">
+                    <label for="rememberme">Remember me</label>
+                </div>
+                <div class="popup_form_field submit_field">
+                    <input type="submit" class="submit_button" value="Login">
+                </div>
+            </form>
+        </div>
+        <div class="form_right">
+            <div class="login_socials_title">You can login using your social profile</div>
+            <div class="loginSoc login_plugin">
+
+                <div class="wp-social-login-widget">
+                    <div class="wp-social-login-connect-with">Connect with:</div>
+                    <div class="wp-social-login-provider-list">
+                        <a rel="nofollow" href="#" title="Connect with Facebook" class="wp-social-login-provider wp-social-login-provider-facebook" data-provider="Facebook">
+                            <img alt="" title="Connect with Facebook" src="images/facebook.png" />
+                        </a>
+                        <a rel="nofollow" href="#" title="Connect with Google" class="wp-social-login-provider wp-social-login-provider-google" data-provider="Google">
+                            <img alt="" title="Connect with Google" src="images/google.png" />
+                        </a>
+                        <a rel="nofollow" href="#" title="Connect with Twitter" class="wp-social-login-provider wp-social-login-provider-twitter" data-provider="Twitter">
+                            <img alt="" title="Connect with Twitter" src="images/twitter.png" />
+                        </a>
+                    </div>
+                    <div class="wp-social-login-widget-clearing"></div>
+                </div>
+
+            </div>
+            <div class="result message_block"></div>
+        </div>
+    </div>
+</div>
+<a href="#" class="scroll_to_top" title="Scroll to top"></a>
+<div class="custom_html_section"></div>
+<script type='text/javascript' src='js/vendor/jquery/jquery.js'></script>
+<script type='text/javascript' src='js/vendor/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='js/custom/custom.js'></script>
+<script type='text/javascript' src='js/vendor/photostack/modernizr.min.js'></script>
+<script type='text/javascript' src='js/vendor/superfish.js'></script>
+<script type='text/javascript' src='js/custom/jquery/core.utils.js'></script> 
+<script type='text/javascript' src='js/custom/jquery/core.init.js'></script>
+<script type='text/javascript' src='js/custom/jquery/theme.init.js'></script>
+<script type='text/javascript' src='js/vendor/mediaelement/mediaelement-and-player.min.js'></script>
+<script type='text/javascript' src='js/custom/jquery/theme.shortcodes.js'></script>
+<script type='text/javascript' src='js/custom/jquery/core.messages.js'></script>
+<script type='text/javascript' src='js/vendor/grid.layout/grid.layout.min.js'></script>
+<script type='text/javascript' src='js/vendor/swiper/swiper.min.js'></script>
+</body>
+
+</html>

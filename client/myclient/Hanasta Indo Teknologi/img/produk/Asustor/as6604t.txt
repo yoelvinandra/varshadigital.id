@@ -1,0 +1,62 @@
+Lockerstor 4
+AS6604T
+
+Power for the power user
+Bringing Double Performance, and SSD Caching to the Small Business
+
+    Two 2.5 GbE ports with up to 5 Gbps under Link Aggregation
+    Dual M.2 NVMe SSD ports for fast caching
+    Overwhelming 4K experience
+    Intel Celeron quad core CPU - 30% faster than previous generation.
+    4GB DDR4-2400 - 30% faster than DDR3
+    Supports Wake on LAN and Wake on WAN
+
+
+===DIBAWAH INI OPSIONAL===
+	
+CPU
+	CPU Model Intel Celeron J4125
+	CPU Architecture x64 64-bit
+	CPU Frequency Quad-Core 2.0GHz (burst up 2.70 GHz)
+	
+Memory
+	Memory 4GB SO-DIMM DDR4
+	Memory Module Pre-installed 4GB (1x 4GB)
+	Total Memory Slots 2
+	Memory Expandable up to 8GB (2x 4GB)
+    Support mixed capacity
+	Flash Memory 8GB eMMC
+	
+Storage
+	Drive Bays 4
+	M.2 Drive Slots 2
+	Compatible Drive Type
+		3.5" SATA HDD
+		2.5" SATA HDD
+		2.5" SATA SSD
+		M.2 2280 NVMe
+	Maximum Drive Bays with Expansion Unit 16
+	Supports Hot Swappable Drives
+	
+External Ports
+	Expansion 3x USB 3.2 Gen 1
+	Network 2x 2.5 Gigabit Ethernet (2.5G/1G/100M)
+	Multimedia Output 1x HDMI 2.0a
+Others
+	System Fan 1x 120mm
+	LCD Panel 	
+	Infrared Receiver 	
+	Power Supply Unit / Adapter 90W x1
+	Input Power Voltage 100V to 240V AC
+	Certification FCC, CE, VCCI, BSMI, C-TICK, KCC, BIS, CCC
+	Warranty 3 Years
+	
+Operation
+	Power Consumption 	27.6 W (Operation); 12.6 W (Disk Hibernation); 0.75 W (Sleep Mode)
+	Noise Level 17.6dB (HDD idle)
+	Operation Temperature 0°C~40°C (32°F~104°F)
+	Humidity 5% to 95% RH
+	
+Size and Weight
+	Size 185.5(H) x 170(W) x 230(D) mm
+	Weight 2.96 kg / 6.52 lb 

@@ -1,0 +1,56 @@
+Drivestor 2 PRO
+AS3302T
+
+ARMed to the Max
+Affordable personal cloud bringing high speeds for individuals and families.
+
+    Realtek RTD1296 Quad-Core 1.4 GHz CPU
+    Uses 2 GB DDR4 – 40% more efficient
+    Superfast 2.5-Gigabit Ethernet
+    Enjoy, download, upload and stream content with 4K transcoding.
+    Supports Wake on LAN and Wake on WAN
+    New Rose Gold logo
+    Tool-free installation
+
+	
+===DIBAWAH INI OPSIONAL===
+	
+CPU
+	CPU Model Realtek RTD1296
+	CPU Architecture ARM64 64-bit
+	CPU Frequency Quad-Core 1.4GHz
+	
+Memory
+	Memory 	2GB DDR4
+	Flash Memory 	8GB eMMC
+	
+Storage
+	Drive Bays 2
+	Compatible Drive Type
+		3.5" SATA HDD
+		2.5" SATA HDD
+		2.5" SATA SSD
+	Maximum Drive Bays with Expansion Unit 	14
+	Supports Hot Swappable Drives
+	
+External Ports
+	Expansion 3x USB 3.2 Gen 1
+	Network 1x 2.5 Gigabit Ethernet (2.5G/1G/100M)
+	Multimedia Output 	N/A
+	
+Others
+	System Fan 	1x 70mm
+	Power Supply Unit / Adapter 65W x1
+	Input Power Voltage 100V to 240V AC
+	Certification FCC, CE, VCCI, BSMI, C-TICK, KCC, BIS, CCC
+	Warranty 	3 Years
+	
+Operation
+	Power Consumption 12.3W (Operation) 6.04W (Disk Hibernation);
+	Noise Level 18.6dB (HDD idle)
+	Operation Temperature 0°C~40°C (32°F~104°F)
+	Humidity 5% to 95% RH
+	
+Size and Weight
+	Size 170(H) x 114(W) x 230(D) mm
+	Weight 1.6kg / 3.53 lbs 

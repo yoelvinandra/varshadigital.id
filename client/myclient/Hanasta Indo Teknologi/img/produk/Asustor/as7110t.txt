@@ -1,0 +1,65 @@
+Lockerstor 10 pro
+AS7110T
+
+Full Xeon Speed Ahead!
+Extremely efficient and stable - Your next enterprise virtualization and storage solution
+
+    Intel Xeon 9th generation Quad-Core CPU
+    8GB of server-grade DDR4-2666 ECC memory (Max 64GB, 32GB x 2)
+    Dual M.2 NVMe SSD ports for fast caching
+    Complete iSCSI/IP-SAN and NFS support. VMware, Citrix and Hyper-V ready. Supports virtualization and Docker apps
+    Brings the smoothest work experience with 10-Gigabit Ethernet, triple 2.5-Gigabit ports and USB 3.2 Gen2 ports.
+    Supports Wake on LAN (2.5-Gigabit ports )
+
+
+===DIBAWAH INI OPSIONAL===
+	
+CPU
+	CPU Model Intel Xeon E-2224
+	CPU Architecture x64 64-bit
+	CPU Frequency Quad-Core 3.4GHz up to 4.6GHz
+	
+Memory
+	Memory 	8GB DDR4 ECC SO-DIMM
+	Memory Module Pre-installed 8GB (1x 8GB)
+	Total Memory Slots 2
+	Memory Expandable up to 64GB (2x 32GB)
+    Support mixed capacity
+	Flash Memory 8GB USB DOM
+	
+Storage
+	Drive Bays 10
+	M.2 Drive Slots 2
+	Compatible Drive Type
+		3.5" SATA HDD
+		2.5" SATA HDD
+		2.5" SATA SSD
+		M.2 2280 NVMe
+		M.2 2280 SATA 3
+		M.2 2260 SATA 3
+		M.2 2242 SATA 3
+	Maximum Drive Bays with Expansion Unit 22
+	Supports Hot Swappable Drives
+	
+External Ports
+	Expansion 1x Front USB 3.2 Gen 1, 2x Rear USB 3.2 Gen 2 (10Gbps)
+	Network 1x 10 Gigabit Ethernet (10G/5G/2.5G/1G/100M); 3x 2.5 Gigabit Ethernet (2.5G/1G/100M)
+	Multimedia Output N/A
+	
+Others
+	System Fan 2x 120mm
+	LCD Panel 	
+	Power Supply Unit / Adapter 350W x1
+	Input Power Voltage 100V to 240V AC
+	Certification FCC, CE, VCCI, BSMI, C-TICK
+	Warranty 5 Years
+	
+Operation
+	Power Consumption 78.7W (Operation); 40.1W (Disk Hibernation); 5.8 W (Sleep Mode)
+	Noise Level 22dB (HDD idle)
+	Operation Temperature 0°C~40°C (32°F~104°F)
+	Humidity 5% to 95% RH
+	
+Size and Weight
+	Size 215.5(H) x 293(W) x 230(D) mm
+	Weight 7.1 (kg) / 15.62 (lb) 
