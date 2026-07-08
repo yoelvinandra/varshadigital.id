@@ -386,55 +386,72 @@
 
   
   <script>
-  var filesDirectory = "../article/myarticle";
-  var fileNameArray = [];
+    var filesDirectory = "../article/myarticle/";
+    var currentPath = "/article/myarticle/"; // absolute path direktori ini, dari root domain
+    var fileNameArray = [];
     $(".title-total").css("font-size","22pt");
-  	// get auto-generated page 
-  $.ajax({url: filesDirectory,async:false,cache:false}).then(function(html) {
-       
-  	// create temporary DOM element
-   	   
-  		var document = $(html);
-  		var indexLoop = 0;
-  		var counter = 0;
-  		var counterChild = 0;
-  		// find all links ending with .pdf 
-  		document.find('a[href]').each(function() {
-  			fileName = $(this).attr('href').split("/")[0];
-  			if(indexLoop > 5)
-  			{
-  			     fileName = decodeURI(fileName);
-  				 var fileUrl = filesDirectory+"/"+$(this).attr('href');
-   
-  				 if(fileUrl.split("/")[fileUrl.split("/").length-1] == "" && fileName != "Parent Directory")
-  				 {
-  				    fileNameArray.push(fileName);
-  					$("#myarticle").append(
-   					    '<div class="responsive imageMove" style="margin-bottom:15px;">'+
-   					    '<div class="gallery">'+
-  					       '<a href="./myarticle/'+fileName+'"><span id="gambarForward'+(counter)+'" class="  " style="border:0px !important; color:black; font-size:14pt;" >'+
-  					            '<img  src="../article/myarticle/'+fileName+'.webp" alt="'+fileName+'" style="border-radius:10px 10px 0px 0px;" />'+
-  					            '<div class="desc" style="text-align:left;">'+fileName+'</div>'+
-                            '</a>'+
-                        '</div>'+
-   					    '</div>'
-  					);
-   					
-  				    counter++;
-  				 }
-   				    
-  			}
-  		indexLoop++;
-  	})
-  	
-  	if(fileNameArray.length == 0){
-  	   $("#myarticle").append(
-   	        '<div style="text-align:center; font-size:16pt;" >COMING SOON....</div>'
-  		);
-  	}
-  	//startarticle();
-   		
-  });
+    
+    $.ajax({url: filesDirectory, async:false, cache:false}).then(function(html) {
+    
+        var doc = $(html);
+        var counter = 0;
+    
+        doc.find('a[href]').each(function() {
+            var href = $(this).attr('href');
+    
+            if (!href) return;
+            if (href.indexOf('?') === 0) return;                    // link sorting
+            if (href === '../' || href.indexOf('..') === 0) return; // parent directory
+            if (href.slice(-1) !== '/') return;                      // bukan folder
+    
+            var fileName;
+    
+            if (href.indexOf('/') === 0 || href.toLowerCase().indexOf('http') === 0) {
+                // href absolute -> ambil path-nya saja kalau full url
+                var path = href;
+                if (href.toLowerCase().indexOf('http') === 0) {
+                    path = href.replace(/^https?:\/\/[^\/]+/i, '');
+                }
+    
+                // harus mulai dari currentPath, dan bukan currentPath itu sendiri (self link)
+                if (path.indexOf(currentPath) !== 0) return;   // breadcrumb / ancestor, skip
+                if (path === currentPath) return;               // link ke diri sendiri, skip
+    
+                var remainder = path.slice(currentPath.length); // sisa path setelah currentPath
+                // remainder harus cuma 1 segmen + trailing slash, gak boleh ada "/" di tengah
+                if (remainder.slice(0, -1).indexOf('/') !== -1) return;
+    
+                fileName = decodeURI(remainder.replace(/\/$/, ''));
+            } else {
+                // href relative -> langsung nama folder
+                fileName = decodeURI(href.replace(/\/$/, '').split('/').pop());
+            }
+    
+            if (!fileName || fileName.toLowerCase() === 'parent directory') return;
+    
+            fileNameArray.push(fileName);
+    
+            $("#myarticle").append(
+                '<div class="responsive imageMove" style="margin-bottom:15px;">'+
+                    '<div class="gallery">'+
+                        '<a href="./myarticle/'+fileName+'"><span id="gambarForward'+counter+'" style="border:0px !important; color:black; font-size:14pt;">'+
+                            '<img src="../article/myarticle/'+fileName+'.webp" alt="'+fileName+'" style="border-radius:10px 10px 0px 0px;" />'+
+                            '<div class="desc" style="text-align:left;">'+fileName+'</div>'+
+                        '</span></a>'+
+                    '</div>'+
+                '</div>'
+            );
+    
+            counter++;
+        });
+    
+        if (fileNameArray.length == 0) {
+            $("#myarticle").append(
+                '<div style="text-align:center; font-size:16pt;">COMING SOON....</div>'
+            );
+        }
+    
+    });
    
     
     function changeView() {

@@ -350,7 +350,7 @@
    		var counterChild = 0;
    		// find all links ending with .pdf 
    		document.find('a[href]').each(function() {
-   			fileName = $(this).attr('href').split("/")[0];
+   			fileName = $(this).attr('href').split("/")[3];
    			if(indexLoop > 5)
    			{
    			     fileName = decodeURI(fileName);
